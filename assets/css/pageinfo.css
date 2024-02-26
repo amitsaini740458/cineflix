@@ -1,0 +1,6 @@
+.pageinfo{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    padding:1.4rem 0;
+}
